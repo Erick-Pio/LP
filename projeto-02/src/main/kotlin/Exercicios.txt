@@ -1,0 +1,51 @@
+1. Crie um ou mais arquivos Kotlin e nele(s), implemente
+os seguintes programinhas:
+
+a) Solicite o nome e o bairro do usuário (em janelas separadas,
+claro). Logo em seguida, mostre ou numa janela ou no console
+abaixo a frase "Você se chama X e mora no bairro Y".
+
+b) Solicite o nome de uma linha onibus e o maior e o menor
+tempo de sua volta, em minutos. Ao final, exiba numa janela
+ou no console: "A linha X leva em média Y minutos/volta"
+Onde Y é a média entre o maior e o menor tempo
+
+c) Solicite o ki (força) base de um Sayajin. Depois exiba quais
+seriam seus kis após as transformações em SSJ, SSJ2, SSJ3, God,
+sendo que SSJ: base x 50; SSJ2: base x 100; SSJ3: base x 200 e
+God: base x 500.
+
+d) Solicite a altura do usuário. Com base nela, exiba...
+"Você pode jogar basquete" (caso a altura for pelo menos 1.8)
+"Não pode jogar basquete" (caso a altura for menor que 1.8)
+
+e) Solicite o salário do usuário. Com base nele, exiba sua
+classe social, sendo...
+"Classe C" caso salário entre 0 e 1000
+"Classe B" caso salário entre 1000.01 e 2000
+"Classe A" caso salário entre 2000.01 e 5000
+"Classe AA" caso salário maior que 5000
+Ou exiba "Salário inválido", caso seja menor que 0
+
+f) Solicite uma frase de pensamento positivo e a quantidade de
+vezes que o programa deve repeti-la.
+Exiba x vezes a frase em x janelas ou no console, conforme a
+quantidade informada pelo usuário
+
+g) Solicite o valor base, em R$, por km rodado do Uber.
+Depois, solicite a distância em km da próxima corrida.
+Depois pergunte qual o volume de solicitações, de 0 a 10.
+Caso o volume não for entre 0 e 10, exiba "volume inválido"
+Exiba o valor da corrida, considerando que...
+Caso o volume for entre 0 e 2, é o valor base x distância.
+Caso o volume for entre 3 e 7, é o valor base x distância x 1.30.
+Caso o volume for entre 8 e 10, é o valor base x distância x 1.80.
+
+
+
+
+
+
+
+
+
